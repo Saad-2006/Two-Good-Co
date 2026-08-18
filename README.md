@@ -4,8 +4,9 @@
 A responsive, animated frontend web experience built to showcase modern web design practices. The project features smooth scrolling and dynamic visual elements.
 
 ## 🚀 Live Demo
-
-**[View the Live Site](https://saad-2006.github.io/Two-Good-Co/)**
+```
+[View the Live Site](https://saad-2006.github.io/Two-Good-Co/)
+```
 
 ## ✨ Features
 
